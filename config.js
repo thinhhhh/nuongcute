@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho a <3',
     reply: 'yêu:)) m nhìu ',
     mess: 't biết mà 🥰. Yêu m nhiều nhiều 😘😘',
-    messDesc: 'Nương cố gắng học đàng hoàng nhé ^_^.',
+    messDesc: 'Yêu Nương nhìu lém ó ^_^.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100036773612807' 
 }
